@@ -124,4 +124,4 @@ Abaisser la fenêtre, et terminez la procédure en cliquant sur “Finaliser”.
 
 Penser à sauvegarder sa capture d’écran ou son document texte contenant les code de sauvegarde en lieu sur.
 
-![Screenshot021](/screenshots/mfa-instagram/screenshot021.jpg)
+![Screenshot023](/screenshots/mfa-instagram/screenshot023.jpg)

@@ -7,15 +7,15 @@ Ouvrir l’application LinkedIn, sélectionner le menu des paramètres en haut �
 
 ![Screenshot001](/screenshots/mfa-linkedin/screenshot001.png)
 
-Dans le menu qui s’ouvre, sélectionner “Paramètres”: 
+Dans le menu qui s’ouvre, sélectionner “Paramètres”:
 
 ![Screenshot002](/screenshots/mfa-linkedin/screenshot002.png)
 
-Sélectionner ensuite le menu de sécurité : 
+Sélectionner ensuite le menu de sécurité :
 
 ![Screenshot003](/screenshots/mfa-linkedin/screenshot003.png)
 
-Puis le menu “double authentification”: 
+Puis le menu “double authentification”:
 
 ![Screenshot004](/screenshots/mfa-linkedin/screenshot004.png)
 
@@ -27,11 +27,11 @@ Sélectionner la méthode, ici ce sera via l’application “Authenticator” :
 
 ![Screenshot006](/screenshots/mfa-linkedin/screenshot006.png)
 
-LinkedIn demande de rentrer son mot de passe avant de continuer : 
+LinkedIn demande de rentrer son mot de passe avant de continuer :
 
 ![Screenshot007](/screenshots/mfa-linkedin/screenshot007.png)
 
-Une clef est alors crée et proposée par LinkedIn. La copier avec la petit icône en bleu en dessous, et se rendre sur l’application Authenticator : 
+Une clef est alors crée et proposée par LinkedIn. La copier avec la petit icône en bleu en dessous, et se rendre sur l’application Authenticator :
 
 ![Screenshot008](/screenshots/mfa-linkedin/screenshot008.png)
 
@@ -43,15 +43,15 @@ Puis sur “Autre” :
 
 ![Screenshot010](/screenshots/mfa-linkedin/screenshot010.png)
 
-Rentrer ici le nom de l’application “LinkedIn” et coller la clef précédemment copiée depuis l’application LinkedIn : 
+Rentrer ici le nom de l’application “LinkedIn” et coller la clef précédemment copiée depuis l’application LinkedIn :
 
 ![Screenshot011](/screenshots/mfa-linkedin/screenshot011.png)
 
-L’application LinkedIn apparait sur Authenticator. Cliquer dessus : 
+L’application LinkedIn apparait sur Authenticator. Cliquer dessus :
 
 ![Screenshot012](/screenshots/mfa-linkedin/screenshot012.png)
 
-Un code apparait, cliquer dessus pour le copier, puis retourner sur l’application LinkedIn : 
+Un code apparait, cliquer dessus pour le copier, puis retourner sur l’application LinkedIn :
 
 ![Screenshot013](/screenshots/mfa-linkedin/screenshot013.png)
 
@@ -62,6 +62,6 @@ Sur l’écran suivant sur LinkedIn, rentrer le code précédemment copié de l�
 
 La double authentification est activée !
 
-Penser à sauvegarder les codes de sauvegarde proposés sur le dernier écran : 
+Penser à sauvegarder les codes de sauvegarde proposés sur le dernier écran :
 
 ![Screenshot016](/screenshots/mfa-linkedin/screenshot016.png)
