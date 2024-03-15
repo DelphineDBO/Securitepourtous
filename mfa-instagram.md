@@ -33,7 +33,7 @@ Choisir l’option SMS et cliquer sur “Suivant” :
 ![Screenshot006](/screenshots/mfa-instagram/screenshot006.jpg)
 
 
-Rentrer son numéro de téléphone et appuyer sur “Suivant” : 
+Rentrer son numéro de téléphone et appuyer sur “Suivant” :
 
 ![Screenshot007](/screenshots/mfa-instagram/screenshot007.jpg)
 
